@@ -1,0 +1,9 @@
+[submodule "MCAD"]
+	path = MCAD
+	url = git@github.com:openscad/MCAD.git
+[submodule "scad-utils"]
+	path = scad-utils
+	url = git@github.com:openscad/scad-utils.git
+[submodule "scad-tvartom"]
+	path = scad-tvartom
+	url = git@github.com:tvartom/scad-tvartom.git
